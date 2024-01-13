@@ -168,7 +168,7 @@ This question is a real guiding question and I’m glad. The webpage when I land
 
 ![irked.jpg](irked/Untitled.png)
 
-This tells me IRC isn’t working but that could also mean it isn’t working and I could exploit this. The site and guided question help with my decision (:
+This tells me IRC isn’t working but that could also mean because it isn’t working and I could exploit this. The site and guided question help with my decision (:
 
 Back to the question I need a version. Googling helps with this as there are multiple exploits - MSF included that are there due to the keywords in the question - **UnrealIRCd 3.2.8.1 - Backdoor Command Execution (Metasploit)**
 
@@ -193,7 +193,7 @@ if args.payload == 'python':
 
 So it is pretty easy to see the answer by looking at the payload that has been crafted. It sends **AB**
 
-characters and this is the answer.
+characters - this is the answer.
 
 Now the fun stuff, I want to see will the exploit work!!
 
@@ -271,7 +271,7 @@ Super elite steg backup pw
 UPupDOWNdownLRlrBAbaSSss
 ```
 
-Yes it looks like I can and it has just turned into a CTF with stenography references. I did mention I stumbled on what I think might answer the next question.
+Yes it looks like I can and it has just turned into a CTF with stegonography references. I did mention I stumbled on what I think might answer the next question.
 
 What is djmardov's password? 
 Searching previously I found a `jpg` called `irked.jpg` so I got to try and see is this the stego.
