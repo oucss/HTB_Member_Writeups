@@ -1,9 +1,0 @@
-How many TCP ports are open on the remote host?
-3
-
-Which flag is used with nmap to execute its vulnerability discovery scripts (with the category "vuln") on the target?
---script vuln
-
-What is the 2014 CVE ID for an information disclosure vulnerability that the service on port 443 is vulnerable to?
-
-CVE-2014-0160
